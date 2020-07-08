@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE doc SYSTEM "/SysConfig/Rules/eidosint.dtd">
+<?EM-dtdExt /SysConfig/Rules/eidosint/eidosint.dtx?>
+<?EM-templateName /SysConfig/{channel}/Templates/letters.xml?>
+<?xml-stylesheet type="text/css" href="/SysConfig/{channel}/Styles/css/mainprint.css"?>
+<doc xml:lang="en-uk">
+	<story>
+		<grouphead>
+			<headline>
+				<ln>
+					<?EM-dummyText [Headline]?>
+				</ln>
+			</headline>
+		</grouphead>
+		<text>
+			<p>
+				<?EM-dummyText [text text text text text text text text text text]?>
+			</p>
+			<superbyline>
+				<name><?EM-dummyText [name]?></name>
+				<source><?EM-dummyText [address]?></source>
+			</superbyline>
+		</text>
+	</story>
+</doc>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product hrefAux="/SysConfig/{channel}/Page/pageAccessories_channel.cfg" zoom="0.11" hrefGrid="/SysConfig/{channel}/Grids/Tabloid.grd" hrefPlate="/SysConfig/PagePlates/395TabloidSinglePlate.pgl" channel="{channel}">
+	<editions>
+		<edition hrefAux="/SysConfig/{channel}/Page/pageAccessories_channel.cfg" hrefGrid="/SysConfig/{channel}/Grids/Tabloid.grd" hrefPlate="/SysConfig/PagePlates/395TabloidSinglePlate.pgl" name="01" id="U2064598165TQG" code="codeName" editionPath="01">
+			<printsites>
+				<ps name="CapeTown"/>
+			</printsites>
+			<books>
+				<book format="broadsheet" name="bookName" id="U2064598165trF" pnn="0">
+					<pages>
+						<page color="cmyk" id="U20645981651KF" pn="1"/>
+						<page color="cmyk" id="U2064598165hl" pn="2"/>
+						<page color="cmyk" id="U2064598165q7" pn="3"/>
+						<page color="cmyk" id="U2064598165UdH" pn="4"/>
+						<page color="cmyk" id="U2064598165H8" pn="5"/>
+						<page color="cmyk" id="U2064598165rCC" pn="6"/>
+						<page color="cmyk" id="U20645981650bE" pn="7"/>
+						<page color="cmyk" id="U2064598165eRB" pn="8"/>
+						<page color="cmyk" id="U2064598165atF" pn="9"/>
+						<page color="cmyk" id="U2064598165iBH" pn="10"/>
+						<page color="cmyk" id="U2064598165bOG" pn="11"/>
+						<page color="cmyk" id="U2064598165KsC" pn="12"/>
+						<page color="cmyk" id="U2064598165FG" pn="13"/>
+						<page color="cmyk" id="U20645981654CE" pn="14"/>
+						<page color="cmyk" id="U2064598165yGG" pn="15"/>
+						<page color="cmyk" id="U206459816534E" pn="16"/>
+						<page color="cmyk" id="U2064598165XLG" pn="17"/>
+						<page color="cmyk" id="U2064598165qb" pn="18"/>
+						<page color="cmyk" id="U2064598165xuE" pn="19"/>
+						<page color="cmyk" id="U2064598165BGI" pn="20"/>
+					</pages>
+					<plates>
+						<plate id="U20645981657D"/>
+						<plate id="U2064598165ajG"/>
+						<plate id="U2064598165OKC"/>
+						<plate id="U2064598165kaG"/>
+						<plate id="U2064598165DVG"/>
+						<plate id="U2064598165cxG"/>
+						<plate id="U2064598165QiB"/>
+						<plate id="U2064598165vvB"/>
+						<plate id="U2064598165jMB"/>
+						<plate id="U2064598165CuF"/>
+						<plate id="U20645981658ID"/>
+						<plate id="U2064598165d2F"/>
+						<plate id="U2064598165iVH"/>
+						<plate id="U2064598165rzC"/>
+						<plate id="U2064598165wS"/>
+						<plate id="U2064598165a0B"/>
+						<plate id="U2064598165trH"/>
+						<plate id="U2064598165apH"/>
+						<plate id="U2064598165VTC"/>
+						<plate id="U2064598165xp"/>
+					</plates>
+				</book>
+			</books>
+		</edition>
+		<edition hrefAux="/SysConfig/{channel}/Page/pageAccessories_channel.cfg" hrefGrid="/SysConfig/{channel}/Grids/Tabloid.grd" hrefPlate="/SysConfig/PagePlates/395TabloidSinglePlate.pgl" name="02" id="U20645981654oE" code="codeName" editionPath="02">
+			<printsites>
+				<ps name="CapeTown"/>
+			</printsites>
+			<books>
+				<book format="broadsheet" pn="1" name="bookName" id="U2064598165FLE" pnn="0">
+					<pages>
+						<page color="cmyk" id="U2064598165EGB" pn="1"/>
+						<page color="cmyk" id="U2064598165wIG" pn="2"/>
+						<page color="cmyk" id="U20645981657AD" pn="3"/>
+						<page color="cmyk" id="U2064598165gBH" pn="4"/>
+						<page color="cmyk" id="U2064598165D0F" pn="5"/>
+						<page color="cmyk" id="U2064598165MGF" pn="6"/>
+						<page color="cmyk" id="U2064598165K6F" pn="7"/>
+						<page color="cmyk" id="U2064598165UFF" pn="8"/>
+						<page color="cmyk" id="U2064598165g3F" pn="9"/>
+						<page color="cmyk" id="U2064598165WND" pn="10"/>
+						<page color="cmyk" id="U2064598165KuH" pn="11"/>
+						<page color="cmyk" id="U2064598165FOF" pn="12"/>
+						<page color="cmyk" id="U2064598165ssG" pn="13"/>
+						<page color="cmyk" id="U2064598165T7" pn="14"/>
+						<page color="cmyk" id="U20645981650CC" pn="15"/>
+						<page color="cmyk" id="U2064598165DgE" pn="16"/>
+						<page color="cmyk" id="U2064598165ICF" pn="17"/>
+						<page color="cmyk" id="U20645981653LH" pn="18"/>
+						<page color="cmyk" id="U20645981650GC" pn="19"/>
+						<page color="cmyk" id="U2064598165hXE" pn="20"/>
+					</pages>
+					<plates>
+						<plate id="U2064598165XHE"/>
+						<plate id="U2064598165mFG"/>
+						<plate id="U2064598165wr"/>
+						<plate id="U2064598165yeF"/>
+						<plate id="U2064598165HFB"/>
+						<plate id="U2064598165OSD"/>
+						<plate id="U2064598165G3B"/>
+						<plate id="U2064598165xzD"/>
+						<plate id="U2064598165vBC"/>
+						<plate id="U206459816575H"/>
+						<plate id="U2064598165TaE"/>
+						<plate id="U2064598165DuD"/>
+						<plate id="U2064598165dTH"/>
+						<plate id="U2064598165VgB"/>
+						<plate id="U2064598165mfE"/>
+						<plate id="U2064598165FV"/>
+						<plate id="U2064598165JLC"/>
+						<plate id="U2064598165CCF"/>
+						<plate id="U2064598165C8E"/>
+						<plate id="U2064598165ayG"/>
+					</plates>
+				</book>
+			</books>
+		</edition>
+		<edition hrefAux="/SysConfig/{channel}/Page/pageAccessories_channel.cfg" hrefGrid="/SysConfig/{channel}/Grids/Tabloid.grd" hrefPlate="/SysConfig/PagePlates/395TabloidSinglePlate.pgl" name="03" id="U2064598165hwE" code="codeName" editionPath="03">
+			<printsites>
+				<ps name="CapeTown"/>
+			</printsites>
+			<books>
+				<book format="broadsheet" pn="1" name="bookName" id="U2064598165hSB" pnn="0">
+					<pages>
+						<page color="cmyk" id="U2064598165yi" pn="1"/>
+						<page color="cmyk" id="U2064598165JBD" pn="2"/>
+						<page color="cmyk" id="U2064598165NBI" pn="3"/>
+						<page color="cmyk" id="U2064598165caG" pn="4"/>
+						<page color="cmyk" id="U20645981651dC" pn="5"/>
+						<page color="cmyk" id="U2064598165xuC" pn="6"/>
+						<page color="cmyk" id="U2064598165I0F" pn="7"/>
+						<page color="cmyk" id="U2064598165y4F" pn="8"/>
+						<page color="cmyk" id="U2064598165iwG" pn="9"/>
+						<page color="cmyk" id="U20645981651V" pn="10"/>
+						<page color="cmyk" id="U2064598165aFI" pn="11"/>
+						<page color="cmyk" id="U2064598165ftB" pn="12"/>
+						<page color="cmyk" id="U2064598165u0C" pn="13"/>
+						<page color="cmyk" id="U20645981651EB" pn="14"/>
+						<page color="cmyk" id="U2064598165D5F" pn="15"/>
+						<page color="cmyk" id="U2064598165Pg" pn="16"/>
+						<page color="cmyk" id="U2064598165pWD" pn="17"/>
+						<page color="cmyk" id="U2064598165OXF" pn="18"/>
+						<page color="cmyk" id="U20645981650WC" pn="19"/>
+						<page color="cmyk" id="U2064598165LdB" pn="20"/>
+					</pages>
+					<plates>
+						<plate id="U2064598165fdC"/>
+						<plate id="U2064598165VWG"/>
+						<plate id="U20645981651EF"/>
+						<plate id="U2064598165PhH"/>
+						<plate id="U2064598165jpB"/>
+						<plate id="U2064598165JHG"/>
+						<plate id="U2064598165NvE"/>
+						<plate id="U2064598165tpB"/>
+						<plate id="U2064598165u7H"/>
+						<plate id="U2064598165EYB"/>
+						<plate id="U2064598165KAD"/>
+						<plate id="U20645981654G"/>
+						<plate id="U2064598165f7G"/>
+						<plate id="U2064598165Wb"/>
+						<plate id="U2064598165UQG"/>
+						<plate id="U2064598165G0G"/>
+						<plate id="U20645981654jG"/>
+						<plate id="U20645981657pC"/>
+						<plate id="U2064598165bg"/>
+						<plate id="U2064598165VS"/>
+					</plates>
+				</book>
+			</books>
+		</edition>
+		<edition hrefAux="/SysConfig/{channel}/Page/pageAccessories_channel.cfg" hrefGrid="/SysConfig/{channel}/Grids/Tabloid.grd" hrefPlate="/SysConfig/PagePlates/395TabloidSinglePlate.pgl" name="Poster" id="U2064598165QRE" code="Poster" editionPath="Poster">
+			<printsites>
+				<ps name="CapeTown"/>
+			</printsites>
+			<books>
+				<book format="broadsheet" pn="1" name="poster" id="U2064598165iKB" pnn="0">
+					<pages>
+						<page color="cmyk" id="U20645981658OH" pn="1"/>
+						<page color="cmyk" id="U206459816527" pn="2"/>
+						<page color="cmyk" id="U2064598165faG" pn="3"/>
+						<page color="cmyk" id="U2064598165vM" pn="4"/>
+						<page color="cmyk" id="U2064598165pCI" pn="5"/>
+					</pages>
+					<plates hrefPlate="/SysConfig/PagePlates/395TabloidSinglePlate.pgl">
+						<plate id="U2064598165EFD"/>
+						<plate id="U2064598165NFI"/>
+						<plate id="U2064598165DEF"/>
+						<plate id="U2064598165KPC"/>
+						<plate id="U2064598165B0C"/>
+					</plates>
+				</book>
+			</books>
+		</edition>
+	</editions>
+</product>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE doc SYSTEM "/SysConfig/Rules/eidosint.dtd">
+<?EM-dtdExt /SysConfig/Rules/eidosint/eidosint.dtx?>
+<?EM-templateName /SysConfig/{channel}/Templates/byline_text.xml?>
+<?xml-stylesheet type="text/css" href="/SysConfig/{channel}/Styles/css/mainprint.css"?>
+<doc xml:lang="en-uk">
+	<story>
+		<text>
+			<byline>
+				<author>
+					<name>
+						<?EM-dummyText [reporter]?>
+					</name>
+				</author>
+			</byline>
+			<p>
+				<?EM-dummyText [text text text text text text text text text text]?>
+			</p>
+		</text>
+	</story>
+</doc>

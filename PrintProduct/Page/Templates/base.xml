@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE doc SYSTEM "/SysConfig/Rules/eidosint.dtd">
+<?EM-dtdExt /SysConfig/Rules/eidosint/eidosint.dtx?>
+<?EM-templateName /SysConfig/{channel}/Templates/text.xml?>
+<?xml-stylesheet type="text/css" href="/SysConfig/{channel}/Styles/css/mainprint.css"?>
+<doc xml:lang="en-uk">
+	<story/>
+</doc>

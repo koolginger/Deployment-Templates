@@ -1,0 +1,660 @@
+doc story {
+	display: block;
+	width: 500px;
+}
+text {
+	display: block;
+	font-size: 20px;
+}
+story text p {
+	display: block;
+}
+doc story text byline author name {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 15px;
+	text-transform: none;
+	margin-bottom: 0px;
+}
+doc story text byline author name f1 {
+	display: block;
+	font-family: "Arial";
+	text-align: left;
+	font-size: 15px;
+	text-transform: none;
+	margin-bottom: 0px;
+}
+doc story text byline f2 {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 15px;
+	text-transform: none;
+	margin-bottom: 0px;
+}
+doc story text byline name {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 15px;
+}
+doc story text byline event {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 15px;
+}
+doc story text byline function {
+	display: block;
+	font-family: "Arial";
+	text-align: left;
+	font-size: 15px;
+}
+doc story text extra h2 {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 15px;
+}
+doc story text answer s1 s2 {
+	display: block;
+	font-family: "Arial";
+	text-align: left;
+	font-size: 15px;
+}
+doc story text p event {
+	display: inline;
+	font-family: "Arial Black";
+	text-align: left;
+}
+doc story text p event s1 {
+	display: inline;
+	font-family: "Nasdings";
+	text-align: left;
+}
+doc story grouphead {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+doc story grouphead overhead ln {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+doc story grouphead headline {
+	display: inline;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+doc story introsubhead grouphead ln {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+doc story introsubhead grouphead headline ln {
+	display: inline;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+story text p s8 {
+	display: inline;
+	font-family: "Arial Black";
+	font-size: 12px;
+	text-decoration: none;
+}
+story text p s9 {
+	display: inline;
+	font-family: "Arial Black";
+	font-size: 12px;
+	text-decoration: none;
+}
+doc story grouphead overhead ln event {
+	display: inline;
+	font-size: 20px;
+	font-family: "Arial Black";
+	text-transform: uppercase;
+	text-align: left;
+}
+story photo-group {
+	display: block;
+}
+doc story pbox photo-print {
+	display: block;
+}
+doc story photo-group fg-photo {
+	display: block;
+}
+doc story photo-group photo-caption {
+	display: block;
+}
+doc story photo-group photo-caption s2 source {
+	display: inline;
+	font-family: "Arial";
+	font-size: 12px;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: right;
+}
+doc story text photo-caption s3 {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 14px;
+	text-transform: none;
+	text-align: left;
+}
+doc story photo-group photo-caption s3 {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 14px;
+	text-transform: none;
+	text-align: left;
+}
+doc photo-caption s3 {
+	display: inline;
+	font-family: "Arial Black";
+	font-size: 14px;
+	text-transform: none;
+	text-align: left;
+}
+doc story photo-group photo-caption s1 {
+	display: inline;
+	font-family: "Arial Black";
+	font-size: 12px;
+	text-transform: none;
+	text-align: left;
+}
+doc story photo-group photo-caption source {
+	display: inline;
+	font-family: "Arial";
+	font-size: 12px;
+	text-transform: uppercase;
+	text-align: left;
+}
+doc story photo-group photo-caption s2 {
+	display: inline;
+	font-family: "Arial";
+	font-size: 12px;
+	text-decoration: none;
+	text-align: left;
+}
+doc story text photo-caption s2 {
+	display: inline;
+	font-family: "Arial";
+	font-size: 12px;
+	text-transform: uppercase;
+	text-align: right;
+}
+doc story photo-caption source {
+	display: inline;
+	font-family: "Arial";
+	font-size: 12px;
+	text-transform: uppercase;
+	text-align: left;
+}
+doc story text photo-caption s1 {
+	display: inline;
+	font-family: "Arial";
+	font-size: 12px;
+	text-transform: none;
+	text-align: left;
+}
+text photo {
+	display: block;
+	float: left;
+}
+doc story summary p {
+	display: block;
+}
+doc story summary p name {
+	display: block;
+	text-transform: uppercase;
+}
+doc story summary p name fuction {
+	display: block;
+	text-transform: none;
+}
+doc story text table tr td {
+	display: block;
+	font-weight: normal;
+}
+link-app1 {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+}
+link-app2 {
+	display: block;
+	font-size: 20px;
+	font-family: "Arial Black";
+}
+doc story summary link-app1 {
+	display: block;
+	font-size: 15px;
+	line-height: 15px;
+	font-family: "Arial Black";
+}
+doc story summary link-app2 {
+	display: block;
+	font-size: 15px;
+	line-height: 15px;
+	font-family: "Arial Black";
+}
+doc story summary link-app3 {
+	display: block;
+	font-size: 15px;
+	line-height: 15px;
+	font-family: "Arial Black";
+}
+doc story summary link-app4 {
+	display: block;
+	font-size: 15px;
+	line-height: 15px;
+	font-family: "Arial Black";
+}
+extra p {
+	display: inline;
+	font-size: 20px;
+	font-family: "Arial Black";
+}
+link-app4 s6 {
+	display: block;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-family: "Arial Black";
+}
+link-app4 s6 f9 {
+	display: block;
+	font-size: 20px;
+	font-family: "Arial Black";
+}
+text p s6 s7 {
+	display: inline;
+	font-size: 20px;
+	text-transform: none;
+	font-family: "Arial Black";
+}
+text p logo {
+	display: block;
+	font-size: 20px;
+}
+extra byline name {
+	display: inline;
+	font-family: "Arial";
+	font-weight: normal;
+	font-size: 20px;
+}
+extra byline name person {
+	display: inline;
+	font-family: "Arial Black";
+	font-size: 20px;
+}
+extra byline event {
+	display: block;
+	font-family: "Arial";
+	font-weight: normal;
+	font-size: 20px;
+}
+extra byline event person {
+	display: inline;
+	font-family: "Arial Black";
+	font-size: 20px;
+}
+doc story text byline author s3 {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	font-size: 15px;
+	text-transform: none;
+}
+doc story text address s5 {
+	display: inline;
+}
+doc story text address {
+	display: inline;
+}
+doc text address name {
+	display: inline;
+	font-weight: normal;
+}
+doc story text p location {
+	display: block;
+	font-family: "Arial Black";
+	text-decoration: none;
+	text-align: right;
+}
+doc story text p source {
+	display: block;
+	font-family: "Arial Black";
+	text-decoration: none;
+}
+doc story text p source location {
+	display: block;
+	font-family: "Arial";
+	text-decoration: none;
+	text-align: right;
+}
+text p name {
+	display: block;
+	font-family: "Arial Black";
+	text-decoration: none;
+	text-align: left;
+}
+text date {
+	display: inline;
+	font-family: "Arial Black";
+	text-decoration: none;
+	text-align: center;
+}
+text time {
+	display: inline;
+	font-family: "Arial Black";
+	text-decoration: none;
+	text-align: center;
+}
+doc story text p f1 {
+	display: inline;
+	font-family: "Arial Black";
+	text-decoration: none;
+}
+doc story text superbyline {
+	display: inline;
+	font-family: "Arial Black";
+	text-decoration: none;
+}
+story grouphead subhead {
+	display: block;
+	font-family: "Arial";
+	font-size: 20px;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none;
+}
+b {
+	font-weight: bold;
+	font-style: normal;
+}
+n {
+	font-weight: normal;
+	font-style: normal;
+}
+bi {
+	font-weight: bold;
+	font-style: italic;
+}
+i {
+	font-style: italic;
+	font-weight: normal;
+}
+strong {
+	font-weight: bold;
+	font-style: normal;
+}
+u {
+	text-decoration: underline;
+}
+s {
+	text-decoration: line-through;
+}
+strike {
+	text-decoration: line-through;
+}
+font {
+	font-size: 13px;
+}
+small {
+	font-size: smaller;
+}
+big {
+	font-size: larger;
+}
+ol {
+	display: block;
+	list-style-type: decimal;
+}
+ul {
+	display: block;
+	list-style-position: outside;
+	list-style-type: square;
+}
+li {
+	display: list-item;
+}
+dl {
+	display: block;
+}
+dd {
+	display: block;
+}
+dt {
+	display: block;
+}
+h1 {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 20px;
+	text-align: left;
+}
+doc story text h1 source {
+	display: inline;
+	font-weight: normal;
+}
+h2 {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 20px;
+	text-align: left;
+}
+h3 {
+	display: block;
+}
+h4 {
+	display: block;
+}
+h5 {
+	display: block;
+}
+doc story text h6 {
+	display: block;
+	font-family: "Arial Black";
+	text-align: left;
+	text-transform: uppercase;
+}
+sub {
+	font-size: 50%;
+	vertical-align: sub;
+	text-align: left;
+}
+sup {
+	font-size: 50%;
+	vertical-align: super;
+	text-align: left;
+}
+super {
+	font-size: 10%;
+	baseline-shift: super;
+	text-align: left;
+}
+center {
+	display: block;
+	text-align: center;
+}
+ic {
+	display: block;
+	font-family: "Arial";
+	font-weight: normal;
+	font-size: 14px;
+	margin-left: 12px;
+	margin-right: 12px;
+	text-align: left;
+	text-decoration: none;
+}
+content h1 {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 14px;
+	font-stretch: normal;
+	line-height: 20px;
+	text-align: justify;
+	word-break: hyphenate;
+}
+content h2 {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 14px;
+	font-stretch: normal;
+	line-height: 16px;
+	text-align: justify;
+	text-transform: uppercase;
+	word-break: hyphenate;
+}
+content h3 {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 16px;
+	font-stretch: normal;
+	line-height: 20px;
+}
+content h4 {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 14px;
+	font-stretch: normal;
+	line-height: 16px;
+}
+content s1 {
+	display: block;
+	font-family: "Arial";
+	font-size: 10.5px;
+	font-stretch: normal;
+	line-height: 11.5px;
+	font-weight: normal;
+	text-align: justify;
+	word-break: hyphenate;
+}
+content s2 {
+	display: block;
+	font-family: "Arial";
+	font-size: 14px;
+	font-stretch: normal;
+	line-height: 16px;
+	font-weight: normal;
+	text-align: justify;
+	word-break: hyphenate;
+}
+content s1 location {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 10.5px;
+	font-stretch: normal;
+	line-height: 11.5px;
+	text-align: justify;
+	text-transform: uppercase;
+	word-break: hyphenate;
+}
+content s2 location {
+	display: block;
+	font-family: "Arial Black";
+	font-size: 14px;
+	font-stretch: normal;
+	line-height: 16px;
+	text-align: justify;
+	word-break: hyphenate;
+}
+related-link {
+	display: block;
+	font-family: "Arial";
+	font-size: 12px;
+	margin-bottom: 5px;
+	background-color: rgb(211, 228, 237);
+}
+internal-link {
+	display: block;
+	font-family: "Arial";
+	font-size: 12px;
+	margin-bottom: 5px;
+	background-color: rgb(211, 228, 237);
+}
+external-link {
+	display: block;
+	font-family: "Arial";
+	font-size: 12px;
+	margin-bottom: 5px;
+	background-color: rgb(211, 228, 237);
+}
+doc story audio {
+	display: block;
+	font-family: "Verdana";
+	margin-top: 10px;
+	margin-bottom: 5px;
+	background-color: rgb(211, 228, 237);
+}
+doc story audio audio-caption {
+	display: block;
+	font-family: "Verdana";
+	font-size: 10px;
+}
+doc story audio audio-prod byline {
+	display: block;
+	font-family: "Verdana";
+	font-size: 10px;
+}
+doc story audio audio-data {
+	display: block;
+	font-family: "Verdana";
+	font-size: 10px;
+}
+doc story video {
+	display: block;
+	font-family: "Verdana";
+	margin-top: 10px;
+	margin-bottom: 5px;
+	background-color: rgb(211, 228, 237);
+}
+doc story video video-caption {
+	display: block;
+	font-family: "Verdana";
+	font-size: 10px;
+}
+doc story video video-prod byline {
+	display: block;
+	font-family: "Verdana";
+	font-size: 10px;
+}
+doc story video video-data {
+	display: block;
+	font-family: "Verdana";
+	font-size: 10px;
+}
+doc story text byline source {
+	display: block;
+	font-family: "Arial";
+	text-align: left;
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+doc story photo-group photo-caption p source {
+	display: inline;
+	font-family: "Arial";
+	font-size: 12px;
+	text-transform: uppercase;
+	text-align: left;
+}
+doc story text byline author source {
+	display: block;
+	font-family: "Arial";
+	text-align: left;
+	font-size: 15px;
+	margin-bottom: 5px;
+}
